@@ -1,6 +1,7 @@
 package ListaJednokierunkowa;
 
 import java.lang.reflect.Type;
+import java.util.Comparator;
 
 public class Iterator<T> {
 
@@ -51,15 +52,15 @@ public class Iterator<T> {
         }
 
         if (hasNext()) {
-            T result = current.item;
             current = current.next;
+            T result = current.item;
             return result;
         }
         return null;
     }
 
-    public void initialized() {
-
+    public void initialize() {
+    isCurrentIsInitialized = false;
     }
 
 

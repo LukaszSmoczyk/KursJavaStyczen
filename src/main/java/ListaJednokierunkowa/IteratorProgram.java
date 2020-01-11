@@ -22,7 +22,7 @@ public class IteratorProgram {
             System.out.println("Iterator nie ma next");
         }
 
-        iterator.initialized();
+        iterator.initialize();
 
         if (iterator.hasNext()){
             System.out.println("Iterator ma next");
