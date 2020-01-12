@@ -2,13 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39eabcc9-8761-4f91-bbfd-77297e8953f0" name="Default Changelist" comment="prawie">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ListaJednokierunkowa/IteratorHashCodeProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ListaJednokierunkowa/IteratorKolejnoscHashCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20200112/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20200112/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20200112/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20200112/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20200112/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20200112/20200112_JVM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20200112/src/main/java/JVM_test1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20200112/src/main/java/JVM_test1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20200112/target/20200112_JVM-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20200112/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JVM_test1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ListaJednokierunkowa/Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ListaJednokierunkowa/Iterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ListaJednokierunkowa/IteratorProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ListaJednokierunkowa/IteratorProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ListaJednokierunkowa/Iterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ListaJednokierunkowa/Iterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ListaJednokierunkowa/IteratorProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ListaJednokierunkowa/IteratorProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ListaJednokierunkowa/IteratorHashCodeProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ListaJednokierunkowa/IteratorHashCodeProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ListaJednokierunkowa/IteratorKolejnoscHashCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ListaJednokierunkowa/IteratorKolejnoscHashCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ListaJednokierunkowa/IteratorHashCodeProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ListaJednokierunkowa/IteratorHashCodeProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ListaJednokierunkowa/IteratorKolejnoscHashCode$IteratorItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ListaJednokierunkowa/IteratorKolejnoscHashCode$IteratorItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ListaJednokierunkowa/IteratorKolejnoscHashCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ListaJednokierunkowa/IteratorKolejnoscHashCode.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +44,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1WFIgDFwdcOoeZXMTGuA0V7CclQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GityTrenerów/M. Szupke/programowanie_11.01.2020" />
@@ -103,6 +118,7 @@
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="prawie" />
     <option name="LAST_COMMIT_MESSAGE" value="prawie" />
   </component>
@@ -115,45 +131,53 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="353" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578744895047" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1578740958240">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1578818938945">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578740958240" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1578750744064">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578818938945" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1578751556001">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578750744064" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1578750744063">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578751556001" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1578751556001">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578750744063" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1578750744063">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578751556001" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1578751556001">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578750744063" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1578750744063">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578751556001" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1578751556001">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578750744063" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1578743792809">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578751556001" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1578751556001">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578743792809" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1578743792809">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578751556001" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1578751556001">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578743792809" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1578743792809">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578751556001" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1578751556001">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578743792809" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1578743792809">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578751556001" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1578751556001">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578743792809" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578751556001" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1578744848948">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578744848948" />
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578826176027">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1578826176027" />
+    <state x="209" y="107" key="new project wizard" timestamp="1578818964227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="107" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1578818964227" />
   </component>
 </project>

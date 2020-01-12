@@ -6,12 +6,6 @@ public class IteratorHashCodeProgram {
 
         IteratorKolejnoscHashCode iteratorHashCode = new IteratorKolejnoscHashCode();
 
-        if (iteratorHashCode.hasNext()){
-            System.out.println("Iterator ma next");
-        } else {
-            System.out.println("Iterator nie ma next");
-        }
-
         iteratorHashCode.add(11);
         iteratorHashCode.add(22);
         iteratorHashCode.add(21);
@@ -20,14 +14,10 @@ public class IteratorHashCodeProgram {
 
         iteratorHashCode.initialize();
 
-
         System.out.println(iteratorHashCode.next());
         System.out.println(iteratorHashCode.next());
         System.out.println(iteratorHashCode.next());
         System.out.println(iteratorHashCode.next());
-        System.out.println(iteratorHashCode.next());
-        System.out.println(iteratorHashCode.next());
-
 
         if (iteratorHashCode.hasNext()){
             System.out.println("Iterator ma next");

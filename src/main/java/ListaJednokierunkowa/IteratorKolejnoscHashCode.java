@@ -104,5 +104,12 @@ import java.util.Objects;
             public IteratorItem getNext() {
                 return this.next;
             }
+            public IteratorItem getHead() {
+                return head;
+            }
+
+            public IteratorItem getTail() {
+                return tail;
+            }
         }
 }
