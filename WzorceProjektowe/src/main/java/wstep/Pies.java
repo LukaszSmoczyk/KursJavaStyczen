@@ -1,4 +1,4 @@
-package Wstep;
+package wstep;
 
 public class Pies extends Zwierze {
     public Pies(String nazwa) {

@@ -1,4 +1,4 @@
-package Wstep;
+package wstep;
 
 public interface Istota {
 

@@ -1,4 +1,4 @@
-package Wstep;
+package wstep;
 
 public class Main {
 
@@ -25,5 +25,12 @@ public class Main {
 
         Istota istota = zwierze;
         istota.wydajDzwiek();
+
+        ///////////////////////////////////////////////
+        // niemutowalna lista
+
+        ImmutableArrayList<Zwierze> immutableArrayList = new ImmutableArrayList<>();
+        immutableArrayList.add(pies);
+        immutableArrayList.add(kon);
     }
 }

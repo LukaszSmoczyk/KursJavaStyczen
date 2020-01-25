@@ -1,4 +1,4 @@
-package Wstep;
+package wstep;
 
 public class Kon extends Zwierze {
     public Kon(String nazwa) {
