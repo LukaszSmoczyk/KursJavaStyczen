@@ -42,7 +42,7 @@ public class EdytorTekstowyMain {
         System.out.println("Ilość obiektów normalnie: " + iloscObiektowNomralnie);
         System.out.println("Ilość obiektów flyweight: " + iloscObiektowFlyweight);
 
-        menadzerZnakow.wypiszKlucze();
+
 
     }
 }
